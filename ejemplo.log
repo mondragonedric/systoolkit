@@ -1,0 +1,10 @@
+2026-10-06 08:00:01 INFO Servicio iniciado
+2026-10-06 08:00:05 ERROR No se pudo conectar a la base de datos
+2026-10-06 08:00:09 ERROR No se pudo conectar a la base de datos
+2026-10-06 08:01:00 WARNING Disco casi lleno
+2026-10-06 08:02:00 INFO Usuario inicio sesion
+2026-10-06 08:03:00 ERROR Tiempo de espera agotado
+2026-10-06 08:04:00 INFO Usuario cerro sesion
+2026-10-06 08:05:00 ERROR Permiso denegado
+2026-10-06 08:06:00 ERROR Archivo corrupto
+2026-10-06 08:07:00 ERROR Memoria insuficiente
