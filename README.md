@@ -113,4 +113,4 @@ Errores más frecuentes:
 - Solo ha sido probado en Windows 11.
 - El análisis de logs busca las palabras `INFO`, `WARNING` y `ERROR` en mayúsculas dentro de cada línea, así que los logs deben usar ese formato.
 - La prueba de conexión depende de que se pueda alcanzar `8.8.8.8`.
-- Mejoras posibles: elegir cuántos procesos mostrar, filtrar los logs por fecha y exportar los resultados a un
+- Mejoras posibles: elegir cuántos procesos mostrar, filtrar los logs por fecha y exportar los resultados a un archivo
