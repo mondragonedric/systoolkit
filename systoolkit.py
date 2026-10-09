@@ -2,7 +2,9 @@ import sys
 import socket
 import platform
 import psutil
-
+#---Proyecto SYSTOOLKIT, Edric Mondragon Herrera, Open Source---
+#---Puedes usar este codigo para entender el como obtener datos generales de un PC---
+#---O en otro caso entender mejor python, saludos---
 def cmd_logs():
     if len(sys.argv) < 3:
         print("Uso: systoolkit logs <archivo>")
@@ -109,7 +111,7 @@ def cmd_network():
 
 def main():
     if len(sys.argv) < 2:
-        print("Uso: python systoolkit.py [system|network|processes|disk|logs]")
+        print("Uso: systoolkit [system|network|processes|disk|logs]")
         sys.exit()
 
     comando = sys.argv[1]
